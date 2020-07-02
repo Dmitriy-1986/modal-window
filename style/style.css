@@ -28,8 +28,8 @@
 
 
     /*  Установаем ширину окна  */
-    width: 100%;
-    max-width: 800px;
+   /* width: 100%;
+    max-width: 800px;*/
 
     /*  Центрируем и задаем z-index */
     position: fixed;
